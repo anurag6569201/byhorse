@@ -77,11 +77,11 @@ const ServiceSection = (props) => {
                                 <i className={service.iconName}></i>
                                 <div className="text">
                                     <span>{service.id}</span>
-                                    <h2><Link to={`/service-single/${service.slug}`} onClick={ClickHandler}>{service.title}</Link></h2>
+                                    <h2><Link to={`/services-single/${service.slug}`} onClick={ClickHandler}>{service.title}</Link></h2>
                                     <p>{service.description}</p>
-                                    <Link to={`/service-single/${service.slug}`} onClick={ClickHandler} className="service-single-link">
+                                    {/* <Link to={`/services-single/${service.slug}`} onClick={ClickHandler} className="service-single-link">
                                         <i className="flaticon-right-arrow"></i>
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>

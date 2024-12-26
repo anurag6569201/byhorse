@@ -15,7 +15,7 @@ const CancellationPage = () => {
                 </p>
                 <h5>2. Refunds on Cancellations</h5>
                 <p>
-                    <li>Refunds for cancellations will be processed within 7-10 business days, depending on payment method and conditions met.</li>
+                    <li>Once the refund request is approved,The Refunded Amount will be processed and credited within 10 to 12 business days to the original mode of payment.</li>
                 </p>
                 <h5>3. Non-cancelable Bookings</h5>
                 <p>

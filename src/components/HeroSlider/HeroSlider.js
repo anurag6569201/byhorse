@@ -66,7 +66,7 @@ const HeroSlider = () => {
                                             </div>
                                             <div className="text">
                                                 <span>Call Us Now</span>
-                                                <h4>+91 9284720638</h4>
+                                                <h4>+91 8700391426</h4>
                                             </div>
                                         </a>
                                     </div>
@@ -117,7 +117,7 @@ const HeroSlider = () => {
                                             </div>
                                             <div className="text">
                                                 <span>Call Us Now</span>
-                                                <h4>+91 9284720638</h4>
+                                                <h4>+91 8700391426</h4>
                                             </div>
                                         </a>
                                     </div>
@@ -169,7 +169,7 @@ const HeroSlider = () => {
                                             </div>
                                             <div className="text">
                                                 <span>Call Us Now</span>
-                                                <h4>+91 9284720638</h4>
+                                                <h4>+91 8700391426</h4>
                                             </div>
                                         </a>
                                     </div>
@@ -221,7 +221,7 @@ const HeroSlider = () => {
                                             </div>
                                             <div className="text">
                                                 <span>Call Us Now</span>
-                                                <h4>+91 9284720638</h4>
+                                                <h4>+91 8700391426</h4>
                                             </div>
                                         </a>
                                     </div>
@@ -271,7 +271,7 @@ const HeroSlider = () => {
                                             </div>
                                             <div className="text">
                                                 <span>Speak to Us</span>
-                                                <h4>+91 9284720638</h4>
+                                                <h4>+91 8700391426</h4>
                                             </div>
                                         </a>
                                     </div>

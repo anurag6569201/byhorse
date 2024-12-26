@@ -19,7 +19,7 @@ const Services = [
         subtitle: 'Transport',
         title: 'EV Bikes for Instant Delivery Key Benefits',
         description: 'We offer fast, eco-friendly deliveries for food, groceries, and small parcels, ensuring efficiency with a reduced carbon footprint.',
-        // slug: 'Road-Freight-Service'
+        slug: 'Road-Freight-Service'
     },
     {
         id: 2,
@@ -29,7 +29,7 @@ const Services = [
         subtitle: 'Transport',
         title: 'Flexible Tempo Services for B2B and B2C Needs',
         description: 'We provide regular schedules, seamless supply chain integration, and reliable service for consistent delivery.',
-        // slug: 'Intermodal-Shipping'
+        slug: 'Intermodal-Shipping'
     },
     {
         id: 3,
@@ -39,7 +39,7 @@ const Services = [
         subtitle: 'Transport',
         title: 'Drone Delivery for Faster Service Key Benefits ',
         description: 'A time-saving, high-tech solution perfect for critical deliveries and modern needs.',
-        // slug: 'Maritime-transportation'
+        slug: 'Maritime-transportation'
     },
     {
         id: 4,
@@ -49,7 +49,7 @@ const Services = [
         subtitle: 'Transport',
         title: 'Packers and Movers ',
         description: 'Efficient and tech-driven, our Packers and Movers service ensures timely, safe delivery of your belongings with advanced tracking.',
-        // slug: 'Mari5time-transportation'
+        slug: 'Mari5time-transportation'
     },
     {
         id: 5,
@@ -59,7 +59,7 @@ const Services = [
         subtitle: 'Transport',
         title: ' All India Parcel ',
         description: 'Fast, safe, and tech-driven parcel delivery across India with real-time tracking for peace of mind.',
-        // slug: 'Maritime-transportation'
+        slug: 'Maritime-transportation'
     },
   
    

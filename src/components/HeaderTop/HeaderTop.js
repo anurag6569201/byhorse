@@ -17,7 +17,7 @@ const HeaderTop = () => {
                             </li>
                             <li>
                                 <a href="tel:+887869587496">
-                                    <i className="flaticon-call"></i><span>+91 9284720638</span>
+                                    <i className="flaticon-call"></i><span>+91 8700391426</span>
                                 </a>
                             </li>
                         </ul>

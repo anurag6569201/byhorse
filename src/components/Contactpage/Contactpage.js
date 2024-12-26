@@ -39,7 +39,7 @@ const Contactpage = () => {
                                     </div>
                                     <div className="office-info-text">
                                         <h2>Phone Number</h2>
-                                        <p>+91 9284720638<br /></p>
+                                        <p>+91 8700391426<br /></p>
                                     </div>
                                 </div>
                             </div>

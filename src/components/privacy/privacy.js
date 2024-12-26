@@ -7,7 +7,7 @@ const PrivacyPage = () => {
   const policies = {
     privacy: (
       <div>
-        <p><b>At Book Your Horse Logistics PVT LTD ("ByHorse"), we prioritize your privacy.</b></p>
+        <p><b>At Book Your Horse Logistics Private Limited ("ByHorse"), we prioritize your privacy.</b></p>
         <h5>1. Data Collection</h5>
             <p>
           <li>We collect personal data, including name, contact details, and delivery information, when you interact with our website or services.</li>

@@ -1,88 +1,27 @@
-
 const pricingPlans = [
     {
-        title: "Regional Transport",
-        Rtitle: "",
-        price: 199,
-        plan: "Standard pack",
-        features: [
-            "Container shipping",
-            "Storage for goods",
-            "Coverage for goods",
-            "Hazardous materials handling",
-            "Expedited delivery"
-        ]
+        title: "Instant EV Delivery",
+        parsent: 10,
+        deliveryMode: "EV Bikes",
+        description: "Quick and eco-friendly local deliveries.",
+        features: ["Real-time tracking", "Ad-hoc bookings", "Carbon footprint reduction"],
+        price: 1999
     },
     {
-        title: "National Transport",
-        Rtitle: "recommend",
-        price: 299,
-        plan: "Standard pack",
-        features: [
-            "Container shipping",
-            "Storage for goods",
-            "Coverage for goods",
-            "Hazardous materials handling",
-            "Expedited delivery"
-        ]
+        title: "Scalable Tempo Rentals",
+        parsent: 15,
+        deliveryMode: "Tempo",
+        description: "Flexible contracts for all business sizes.",
+        features: ["Monthly contracts", "Dedicated support", "Nationwide service"],
+        price: 4999
     },
     {
-        title: "Global Transport",
-        Rtitle: "",
-        price: 399,
-        plan: "Standard pack",
-        features: [
-            "Container shipping",
-            "Storage for goods",
-            "Coverage for goods",
-            "Hazardous materials handling",
-            "Expedited delivery"
-        ]
-    },
-    {
-        title: "Normal Plan",
-        parsent:20,
-        Rtitle: "",
-        Mbps: 30,
-        price: "1,599",
-        plan: "Standard pack",
-        features: [
-            "Container shipping",
-            "Storage for goods",
-            "Coverage for goods",
-            "Hazardous materials handling",
-            "Expedited delivery"
-        ]
-    },
-    {
-        title: "Medium Plan",
-        parsent:30,
-        Rtitle: "",
-        Mbps: 40,
-        price: "2,599",
-        plan: "Standard pack",
-        features: [
-            "Container shipping",
-            "Storage for goods",
-            "Coverage for goods",
-            "Hazardous materials handling",
-            "Expedited delivery"
-        ]
-    },
-    {
-        title: "Premium Plan",
-        parsent:15,
-        Rtitle: "",
-        Mbps: 50,
-        price: "3,599",
-        plan: "Standard pack",
-        features: [
-            "Container shipping",
-            "Storage for goods",
-            "Coverage for goods",
-            "Hazardous materials handling",
-            "Expedited delivery"
-        ]
+        title: "Nationwide Movers",
+        parsent: 20,
+        deliveryMode: "Packers ",
+        description: "Seamless logistics across India.",
+        features: ["End-to-end service", "Secure handling", "Customizable options"],
+        price: 9999
     }
 ];
 

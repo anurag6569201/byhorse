@@ -48,7 +48,7 @@ const Footer = (props) => {
             <div className="wpo-upper-footer">
                 <div className="container">
                     <div className="row">
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+                        <div className="col col-lg-4 col-md-6 col-sm-12 col-12">
                             <div className="widget about-widget">
                                 <div className="logo widget-title m-0">
                                     {/* <img src={Logo} alt="blog" style={{width:'200px', height:'220px'}} /> */}
@@ -76,19 +76,20 @@ const Footer = (props) => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+                        {/* <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
                             <div className="widget link-widget">
                                 <div className="widget-title">
                                     <h3>Services</h3>
                                 </div>
                                 <ul>
                                     {Services.slice(0, 6).map((service, item) => (
-                                        <li key={item}><Link onClick={ClickHandler} to={`/services-single/${service.slug}`}>{service.title}</Link></li>
+                                        <li style={{pointerEvents:'none',opacity:0.5}} key={item}><Link onClick={ClickHandler} to={`/services-single/${service.slug}`}>{service.title}</Link></li>
                                     ))}
                                 </ul>
                             </div>
-                        </div>
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+                        </div> */}
+
+                        <div className="col col-lg-4 col-md-6 col-sm-12 col-12">
                             <div className="widget link-widget">
                                 <div className="widget-title">
                                     <h3>Useful links</h3>
@@ -104,7 +105,8 @@ const Footer = (props) => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+
+                        <div className="col col-lg-4 col-md-6 col-sm-12 col-12">
                             <div className="widget locations-widget">
                                 <div className="widget-title">
                                     <h3>Locations</h3>
@@ -116,7 +118,7 @@ const Footer = (props) => {
                                 <ul>
                                     <li>Contact</li>
                                     <li ><a href="mailto:info@byhorse.com" style={{ color: 'white' }}>info@byhorse.com</a></li>
-                                    <li>+91 9284720638</li>
+                                    <li>+91 8700391426</li>
                                 </ul>
                             </div>
                         </div>

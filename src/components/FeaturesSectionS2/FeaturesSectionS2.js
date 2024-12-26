@@ -7,6 +7,7 @@ const FeaturesSectionS2 = (props) => {
     }
 
     return (
+        <>
         <section className={"" + props.hclass}>
             <div className="top-wraper">
                 <div className="container">
@@ -68,6 +69,30 @@ const FeaturesSectionS2 = (props) => {
                 </div>
             </div>
         </section>
+        <section>
+            <div className='container'>
+                <div className='row mt-5'>
+                    <div className='col-md-12'>
+                        <h3>Pricing</h3>
+                        <p>
+                            At ByHorse, we recognize that every business has unique logistics needs. Our pricing starts at just ₹499, offering value-driven solutions for a wide range of services, including last-mile delivery, EV fleet solutions, and multi-modal logistics support.
+                        </p>
+                    </div>
+                    <div className='cpl-md-12'>
+                        <h3>Why Choose Us?</h3>
+                        <p>
+                        Affordable Pricing: Starting at ₹499, tailored to your requirements. <br/>
+                        Transparent Billing: No hidden charges, ensuring complete clarity.<br/>
+                        Scalable Solutions: Flexible options to grow alongside your business.<br/>
+                        Our services are customized to meet your specific needs, and we provide competitive quotes based on your requirements.
+                        <br/>
+                        For a personalized quote or to know more about our pricing structure, please contact us at <b>info@byhorse.com</b> or call <b>+91 8700391426</b>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </>
     );
 };
 

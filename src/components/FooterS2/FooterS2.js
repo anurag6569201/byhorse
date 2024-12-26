@@ -51,7 +51,7 @@ const FooterS2 = () => {
             <div className="wpo-upper-footer">
                 <div className="container">
                     <div className="row">
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+                        <div className="col col-lg-4 col-md-6 col-sm-12 col-12">
                             <div className="widget address-widget">
                                 <div className="widget-title">
                                     <h3>Address</h3>
@@ -65,7 +65,7 @@ const FooterS2 = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+                        {/* <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
                             <div className="widget link-widget">
                                 <div className="widget-title">
                                     <h3>Services</h3>
@@ -76,8 +76,9 @@ const FooterS2 = () => {
                                     ))}
                                 </ul>
                             </div>
-                        </div>
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+                        </div> */}
+                        
+                        <div className="col col-lg-4 col-md-6 col-sm-12 col-12">
                             <div className="widget link-widget">
                                 <div className="widget-title">
                                     <h3>Useful links</h3>
@@ -91,7 +92,8 @@ const FooterS2 = () => {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
+
+                        <div className="col col-lg-4 col-md-6 col-sm-12 col-12">
                             <div className="widget newsletter-widget">
                                 <div className="widget-title">
                                     <h3>newsletter</h3>
